@@ -1,5 +1,5 @@
 # Digital Twin of You 🧠
-### Team: **Bit Rebels** | Rishita Ramola | Graphic Era Deemed to be University
+### Team: **Bit Rebels**  | Graphic Era Deemed to be University
 ### Hackathon: **Hack-o-Holic 4.0**
 
 ---
